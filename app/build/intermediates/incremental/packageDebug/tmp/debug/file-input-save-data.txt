@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Jun 02 21:38:08 ICT 2019
+0.baseType=DIRECTORY
+0.base=E\:\\BaiTapLabAndroid\\DemoSqliteOpenHelper-master\\DemoSqliteOpenHelper-master\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+0.path=classes.dex
+0.set=DEX
+count=1
